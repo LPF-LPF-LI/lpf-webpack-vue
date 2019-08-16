@@ -17,9 +17,6 @@
 # clone repository
 $ git clone https://github.com/LPF-LPF-LI/lpf-webpack-vue.git
 
-# change directory
-$ cd jsl-webpack-vue-h5
-
 # install ncu at global
 $ npm install -g npm-check-updates
 
